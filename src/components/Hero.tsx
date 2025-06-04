@@ -52,7 +52,7 @@ const Hero = () => {
         
         <div className="w-full md:w-1/2 flex justify-center">
           <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-blue-500 dark:border-blue-400 shadow-lg">
-            <img className="w-64 h-64 md:w-80 md:h-80 rounded-full flex items-center justify-center" src="/src/pic.jpg" alt="Your Profile Photo" />
+            <img className="w-64 h-64 md:w-80 md:h-80 rounded-full flex items-center justify-center" src="/../pic.jpg" alt="Your Profile Photo" />
           </div>
         </div>
       </div>
