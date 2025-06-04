@@ -7,4 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  base: '/Harsah-Reddy-Portfolio/', // <-- Use colon and trailing slash
 });
