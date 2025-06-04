@@ -11,7 +11,7 @@
     "predeploy": "npm run build",
   "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://<your-username>.github.io/Harsah-Reddy-Portfolio",
+  "homepage": "https://reddy3218.github.io/Harsah-Reddy-Portfolio",
 
   "dependencies": {
     "lucide-react": "^0.344.0",
