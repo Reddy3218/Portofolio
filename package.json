@@ -9,10 +9,9 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "homepage": "https://reddy3218.github.io/Harsah-Reddy-Portfolio",
-
   "dependencies": {
     "lucide-react": "^0.344.0",
     "react": "^18.3.1",
