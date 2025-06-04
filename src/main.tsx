@@ -6,7 +6,7 @@ import './index.css';
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <BrowserRouter basename="/Harsah-Reddy-Portfolio">
+    <BrowserRouter basename="/Portofolio">
       <App />
     </BrowserRouter>
   </StrictMode>
